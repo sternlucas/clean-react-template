@@ -5,3 +5,4 @@ build
 /src/reportWebVitals.ts
 /*.js
 .vscode
+coverage
